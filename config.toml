@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Michael's first website in HUGO"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,10 +13,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
+    name = "Another cool linky"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
-    name = "Twitter"
+    name = "@SimonovSays"
     url = "https://twitter.com/rstudio"
 
 [params]
