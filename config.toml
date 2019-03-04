@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://flamboyant-blackwell-803b0f.netlify.com/"
 languageCode = "en-us"
 title = "Vanilla"
 theme = "vanilla-bootstrap-hugo-theme"
